@@ -1,0 +1,15 @@
+h1{border-width: 10px;color: blue;background: yellow;}
+
+h3 element.style {
+}
+td 
+     {background-color:rgba(0,0,255,0.3);}
+
+table, th, td {
+    border: 3px solid white;
+    border-collapse: collapse;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+.box{width: 10em;height: 50em;background-color:rgba(02, 00, 00, 0.6);}
